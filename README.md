@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Ángel</h1>
+<h1 align="center">Hola 👋</h1>
 <h3 align="center">Soy tecnico informatico.</h3>
 
 - 🔭 Estoy desarrollando una app para personas con dificultades de habla, la app se llama [Habla Pro Quo](https://hablaproquo.github.io)
