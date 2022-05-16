@@ -5,8 +5,10 @@
 </a></p>
 
 
-<h1 align="center">Hola 👋</h1>
-<h3 align="center">Soy tecnico informatico.</h3>
+
+<h2><b><i>Hola 👋</i></b></h2>
+<b><i>👨‍💻 Soy tecnico informatico</i></b>
+
 
 - 🔭 Estoy desarrollando una app para personas con dificultades de habla, se llama [Habla Pro Quo](https://hablaproquo.github.io)
 
