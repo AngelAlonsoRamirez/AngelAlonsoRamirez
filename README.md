@@ -32,7 +32,7 @@
   
 <summary>
 <details>
-<summary>Contador de visitas </summary>
+<b><summary>Contador de visitas </summary></b>
 
 ![Visitor Count](https://profile-counter.glitch.me/{AngelAlonsoRamirez}/count.svg)
   
