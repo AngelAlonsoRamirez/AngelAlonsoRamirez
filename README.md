@@ -31,4 +31,4 @@
 
   <br>
 Contador de visitas:
-![Visitor Count](https://profile-counter.glitch.me/{AngelAlonsoRamirez}/count.svg)
+![Visitor Count]([https://profile-counter.glitch.me/{Furim}/count.svg](https://profile-counter.glitch.me/{AngelAlonsoRamirez}/count.svg))
