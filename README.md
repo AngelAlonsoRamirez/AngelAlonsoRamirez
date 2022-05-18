@@ -45,7 +45,7 @@
 
 
 <details>
-<summary>Languages </summary>
+<summary>Contador de visitas </summary>
  
  ![New Piskel(12)](https://user-images.githubusercontent.com/30505692/117575772-90e62a00-b0e3-11eb-8568-f57e48bc4e5e.png)
 
