@@ -36,3 +36,27 @@
 ![Visitor Count](https://profile-counter.glitch.me/{AngelAlonsoRamirez}/count.svg)
 
 </details>
+
+
+
+
+
+
+
+
+<details>
+<summary>Languages </summary>
+ 
+ ![New Piskel(12)](https://user-images.githubusercontent.com/30505692/117575772-90e62a00-b0e3-11eb-8568-f57e48bc4e5e.png)
+
+- [x] Python
+
+- [x] C
+
+- [x] C++
+
+- [ ] A little bit of nodejs
+
+</summary>
+<br>
+</details>
