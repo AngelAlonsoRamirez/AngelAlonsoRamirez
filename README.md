@@ -1,7 +1,6 @@
 <p align="center"><a href="https://github.com/AngelAlonsoRamirez">
   
-  ![](https://komarev.com/ghpvc/?username=angelalonsoramirez&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/Angel_Alonso___?color=blue&label=Twitter&logo=twitter&style=flat-square) ![Instagram URL](https://img.shields.io/twitter/url?color=blue&label=Instagram&logo=Instagram&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fangeliino_73%2F) ![LinKedin URL](https://img.shields.io/twitter/url?color=blue&label=LinKedin&logo=linKedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangel-alonso-45424613b%2F)
-  
+  ![](https://komarev.com/ghpvc/?username=angelalonsoramirez&style=flat-square)
   
   
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AngelAlonsoRamirez&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
