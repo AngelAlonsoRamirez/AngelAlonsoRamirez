@@ -36,6 +36,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{AngelAlonsoRamirez}/count.svg)
   
-</summary>
+![](https://komarev.com/ghpvc/?username=angelalonsoramirez&style=flat-square)
+  </summary>
 <br>
 </details>
