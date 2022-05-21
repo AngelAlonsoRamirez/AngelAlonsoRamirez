@@ -1,4 +1,8 @@
 <p align="center"><a href="https://github.com/AngelAlonsoRamirez">
+  
+  ![](https://komarev.com/ghpvc/?username=angelalonsoramirez&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/Angel_Alonso___?color=blue&label=Twitter&logo=twitter&style=flat-square) ![Instagram URL](https://img.shields.io/twitter/url?color=blue&label=Instagram&logo=Instagram&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fangeliino_73%2F) ![LinKedin URL](https://img.shields.io/twitter/url?color=blue&label=LinKedin&logo=linKedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangel-alonso-45424613b%2F)
+  
+  
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AngelAlonsoRamirez&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AngelAlonsoRamirez"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HablaProQuo&layout=compact&theme=react&hide_border=true" />
@@ -29,14 +33,4 @@
 <h3 align="left">Lenguajes y herramientas que uso:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p
 
-  
-<summary>
-<details>
-<summary>Contador de visitas </summary>
-
-![Visitor Count](https://profile-counter.glitch.me/{AngelAlonsoRamirez}/count.svg)
-  
-![](https://komarev.com/ghpvc/?username=angelalonsoramirez&style=flat-square)
-  </summary>
-<br>
-</details>
+ 
