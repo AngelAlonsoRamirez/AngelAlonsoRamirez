@@ -15,7 +15,7 @@
 
 - 🔭 Desarrollando app para personas con dificultades de habla, [Habla Pro Quo](https://hablaproquo.github.io)
 
-- 👨‍💻 Mis proyectos los puedes encontrar en mi web [https://angelalonsoramirez.info/](https://angelalonsoramirez.info)
+- 👨‍💻 Mis proyectos los puedes encontrar en mi web [angelalonsoramirez.info](https://angelalonsoramirez.info)
 
 - 📫 Correo de contacto **angel.731998@gmail.com**
 
