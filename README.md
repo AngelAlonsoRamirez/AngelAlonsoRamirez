@@ -13,11 +13,9 @@
 <b><i>👨‍💻 Soy tecnico informatico</i></b>
 
 
-- 🔭 Estoy desarrollando una app para personas con dificultades de habla, se llama [Habla Pro Quo](https://hablaproquo.github.io)
+- 🔭 Desarrollando app para personas con dificultades de habla, [Habla Pro Quo](https://hablaproquo.github.io)
 
-- 👨‍💻 Mis proyectos los puedes encontrar en esta web [https://angelalonso.webnode.es](https://angelalonso.webnode.es)
-
-- 💬 Puedes preguntarme sobre **JavaScript o el ecosistema de Android**
+- 👨‍💻 Mis proyectos los puedes encontrar en mi web [https://angelalonsoramirez.info/](https://angelalonsoramirez.info)
 
 - 📫 Correo de contacto **angel.731998@gmail.com**
 
