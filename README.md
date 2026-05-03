@@ -1,17 +1,3 @@
-# 🚀 Angel Alonso Ramirez
-
-<p align="center">
-  <a href="https://github.com/AngelAlonsoRamirez">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AngelAlonsoRamirez&show_icons=true&include_all_commits=true&theme=react&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AngelAlonsoRamirez">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlonsoRamirez&layout=compact&theme=react&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 👋 Sobre mí
 
 💻 Técnico informático apasionado por la programación y la tecnología  
