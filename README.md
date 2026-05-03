@@ -15,7 +15,7 @@
 
 ## 🌐 Portfolio
 
-👉 [angelalonso.duckdns.org]([https://angelalonsoramirez.info](https://angelalonso.duckdns.org)
+👉 [angelalonso.duckdns.org](https://angelalonso.duckdns.org)
 
 ---
 
