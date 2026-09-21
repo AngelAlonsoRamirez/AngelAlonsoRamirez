@@ -8,7 +8,7 @@
 
 ## 🔥 Proyecto destacado
 
-- 🗣️ **[Habla Pro Quo]([https://hablaproquo.github.io](https://play.google.com/store/apps/details?id=com.hablaproquo)**  
+- 🗣️ **[Habla Pro Quo](https://play.google.com/store/apps/details?id=com.hablaproquo)**  
   Aplicación diseñada para ayudar a personas con dificultades de habla.
 
 ---
